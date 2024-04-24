@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Bhadoriya</h1>
-<h3 align="center">I love to create beautiful experiences for users on the web.</h3>
+<h3 align="center">I love to create captivating experiences for users on the web.</h3>
 
 - 🌱 I’m currently learning **Next.js, typescript, Express.js** and trying to polish my **React.js** skills.
 
