@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, typescript, Express.js** and trying to polish my **React.js** skills.
 
-- 👨‍💻 Check out my portfolio [here](https://aditi-portfolio-one.vercel.app/)
+- 👨‍💻 Check out my portfolio [here](https://aditi-new-portfolio.vercel.app/)
 
 - 📫  My Email: **awdhesh1700@gmail.com**
 
