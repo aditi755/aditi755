@@ -7,7 +7,7 @@
 
 - 📫  My Email: **awdhesh1700@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1GkR-L0SG0eFcnCTySTgxIo6pUWLecijH/view)
+- 📄 [My Resume](https://drive.google.com/file/d/1ICEA0tB0MqtA2xRj4B9auFatY5QIrMlm/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
