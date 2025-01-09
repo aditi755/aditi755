@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi </h1>
 <h3 align="center">I love to create captivating experiences for users on the web.</h3>
 
-- Hi! I'm Aditi, a Full Stack Developer who loves creating feature-rich web experiences that users genuinely enjoy. Currently doing full stack development at Slate, where I transform ideas into engaging features with my team.
+- Hi! I'm a Full Stack Developer who loves creating feature-rich web experiences that users genuinely enjoy. Currently doing full stack development at Slate, where I transform ideas into engaging features with my team.
 Previously through freelancing and internships, I've worked with various web technologies and AI integrations. I thrive on solving complex problems and turning them into smooth, intuitive features.
 
 -  I'm always open to discussing exciting tech ideas and potential collaborations. If you're interested in building something impactful together, feel free to reach out!
