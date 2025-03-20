@@ -10,7 +10,7 @@ Previously through freelancing and internships, I've worked with various web tec
 
 - 📫  My Email: **awdhesh1700@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1oZMf7VGSYms8ztoHTVtctt2INo3Wwut1/view)
+- 📄 [My Resume](https://drive.google.com/file/d/1YUJidakzbDqnnEQJ2o8Hw1VBA1c_mKhb/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
