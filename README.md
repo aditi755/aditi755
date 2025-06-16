@@ -6,7 +6,7 @@ Previously through freelancing and internships, I've worked with various web tec
 
 -  I'm always open to discussing exciting tech ideas and potential collaborations. If you're interested in building something impactful together, feel free to reach out!
 
-- 👨‍💻 Check out my portfolio [here](https://aditi-new-portfolio.vercel.app/)
+- 👨‍💻 Check out my portfolio [here](https://aditi-tech.vercel.app/)
 
 - 📫  My Email: **awdhesh1700@gmail.com**
 
